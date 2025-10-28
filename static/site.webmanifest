@@ -1,0 +1,54 @@
+{
+    "name": "Titico del Swing",
+    "short_name": "Titico Swing",
+    "description": "Escuela de baile profesional con los mejores instructores y clases para todos los niveles en Pasto, Colombia.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/favicon.png",
+            "sizes": "1280x800",
+            "type": "image/png",
+            "form_factor": "wide"
+        },
+        {
+            "src": "/favicon.png",
+            "sizes": "750x1334",
+            "type": "image/png",
+            "form_factor": "narrow"
+        }
+    ],
+    "categories": [
+        "educacion",
+        "vida",
+        "deportes"
+    ],
+    "lang": "es-CO",
+    "dir": "ltr",
+    "prefer_related_applications": false,
+    "shortcuts": [
+        {
+            "name": "Clases de Baile",
+            "short_name": "Clases",
+            "description": "Descubre nuestras clases de baile disponibles",
+            "url": "/clases"
+        },
+        {
+            "name": "Contacto",
+            "short_name": "Contacto",
+            "description": "Contáctanos para más información",
+            "url": "/contacto"
+        }
+    ]
+}

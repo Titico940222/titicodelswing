@@ -87,7 +87,7 @@
                                 <div>
                                     <h3 class="font-bold text-black">Email</h3>
                                     <p class="text-gray-900">
-                                        info@titicodelswing.com
+                                        javiernarvaez1085@gmail.com
                                     </p>
                                 </div>
                             </div>
@@ -116,13 +116,18 @@
                     <h3 class="text-2xl font-bold text-white mb-6">
                         Envíanos un mensaje
                     </h3>
-                    <form class="space-y-4">
+                    <form
+                        class="space-y-4"
+                        action="https://formsubmit.co/javiernarvaez1085@gmail.com"
+                        method="POST"
+                    >
                         <div>
                             <label
                                 for="nombre"
                                 class="block text-gray-100 mb-2 font-medium"
-                                >Nombre</label
                             >
+                                Nombre
+                            </label>
                             <input
                                 type="text"
                                 id="nombre"
@@ -180,6 +185,14 @@
                                 aria-required="true"
                             ></textarea>
                         </div>
+                        <input type="hidden" name="_template" value="table" />
+                        <input type="hidden" name="_captcha" value="false" />
+                        <input type="text" name="_honey" style="display:none" />
+                        <input
+                            type="hidden"
+                            name="_next"
+                            value="https://www.titico.online"
+                        />
 
                         <button
                             type="submit"
