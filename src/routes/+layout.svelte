@@ -146,7 +146,7 @@
 
 	<!-- Efecto de brillo sutil -->
 	<div
-		class="absolute inset-0 bg-gradient-to-b from-amber-900/5 via-transparent to-amber-900/6"
+		class="absolute inset-0 bg-gradient-to-b from-amber-900/6 via-transparent to-amber-900/6"
 	></div>
 
 	<!-- Efecto de partículas sutiles -->
