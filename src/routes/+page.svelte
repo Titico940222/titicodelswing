@@ -3,7 +3,6 @@
     import AboutSection from "$lib/components/AboutSection.svelte";
     import ClassesSection from "$lib/components/ClassesSection.svelte";
     import TeachersSection from "$lib/components/TeachersSection.svelte";
-    import TestimonialsSection from "$lib/components/TestimonialsSection.svelte";
     import ContactSection from "$lib/components/ContactSection.svelte";
     import FooterSection from "$lib/components/FooterSection.svelte";
     import WhatsappButton from "$lib/components/WhatsappButton.svelte";

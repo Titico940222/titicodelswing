@@ -40,7 +40,7 @@
 		name="robots"
 		content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 	/>
-	<link rel="canonical" href="https://www.titico.online" />
+	<link rel="canonical" href="https://www.titico.online/" />
 
 	<!-- Open Graph / Facebook / Google -->
 	<meta property="og:locale" content="es_ES" />
@@ -146,7 +146,7 @@
 
 	<!-- Efecto de brillo sutil -->
 	<div
-		class="absolute inset-0 bg-gradient-to-b from-amber-900/5 via-transparent to-amber-900/5"
+		class="absolute inset-0 bg-gradient-to-b from-amber-900/6 via-transparent to-amber-900/6"
 	></div>
 
 	<!-- Efecto de partículas sutiles -->
