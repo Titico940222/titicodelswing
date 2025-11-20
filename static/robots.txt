@@ -1,3 +1,24 @@
-# allow crawling everything by default
 User-agent: *
-Disallow:
+# Permitir el acceso a todo el sitio
+Allow: /
+
+# Bloquear carpetas sensibles si existen
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /config/
+
+# Evitar indexación de parámetros comunes
+Disallow: /*?*
+Disallow: /*&*
+
+# Permitir recursos necesarios para el render (CSS, JS, imágenes)
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.svg$
+Allow: /*.webp$
+
+# Ubicación del sitemap
+Sitemap: https://titicodelswing.online/sitemap.xml
