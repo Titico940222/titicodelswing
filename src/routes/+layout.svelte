@@ -40,12 +40,12 @@
 		name="robots"
 		content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
 	/>
-	<link rel="canonical" href="https://www.titico.online/" />
+	<link rel="canonical" href="https://titicodelswing.online/" />
 
 	<!-- Open Graph / Facebook / Google -->
 	<meta property="og:locale" content="es_ES" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://www.titico.online/" />
+	<meta property="og:url" content="https://titicodelswing.online/" />
 	<meta
 		property="og:title"
 		content="Titico del Swing | Escuela de Baile Profesional"
@@ -55,7 +55,10 @@
 		property="og:description"
 		content="Aprende a bailar con los mejores instructores. Clases para todos los niveles y estilos. Únete a nuestra comunidad de baile hoy mismo."
 	/>
-	<meta property="og:image" content="https://www.titico.online/favicon.png" />
+	<meta
+		property="og:image"
+		content="https://titicodelswing.online/favicon.png"
+	/>
 	<meta property="og:image:width" content="512" />
 	<meta property="og:image:height" content="512" />
 	<meta
@@ -99,8 +102,8 @@
 			"@type": "DanceSchool",
 			"name": "Titico del Swing",
 			"description": "Escuela de baile profesional con los mejores instructores y clases para todos los niveles.",
-			"url": "https://www.titico.online",
-			"logo": "https://www.titico.online/favicon.png",
+			"url": "https://titicodelswing.online",
+			"logo": "https://titicodelswing.online/favicon.png",
 			"telephone": "+57 320 532 0265",
 			"address": {
 				"@type": "PostalAddress",
